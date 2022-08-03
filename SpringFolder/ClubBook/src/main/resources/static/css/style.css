@@ -1,0 +1,26 @@
+@charset "UTF-8";
+.errors {
+	color: red;
+	font-weight: bold;
+	display: block;
+}
+.shelf {
+	padding: 10px;
+	margin: 10px;
+}
+.btn1 {
+	margin: 0px 5px;
+}
+.t-head {
+	display: flex;
+	justify-content: space-between;
+}
+.name {
+	color: red;
+}
+.title {
+	color: purple;
+}
+.author {
+	color: green;
+}
