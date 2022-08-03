@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.errors {
+	color: red;
+	font-weight: bold;
+	display: block;
+}
+.btn1 {
+	margin: 0px 5px;
+}
+
+dt {
+	margin: 40px 0px;
+}

@@ -1,0 +1,33 @@
+@charset "UTF-8";
+h1 {
+	text-align: center;
+	margin: 10px;
+	padding: 10px;
+}
+.link {
+	display: block;
+	margin: 5px;
+}
+.border {
+	color: black;
+	background-color: black;
+	width: auto;
+	height: 3px;
+	margin-bottom: 20px;
+}
+h3{
+	text-align: center;
+	border-bottom: 2px solid black;
+	padding: 10px;
+}
+.row {
+	border: 2px solid black;
+}
+.errors {
+	color: red;
+	display: block;
+}
+
+select{
+	margin: 10px;
+}
