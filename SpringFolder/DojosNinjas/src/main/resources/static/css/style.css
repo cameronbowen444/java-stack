@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+.box {
+	background-color: grey;
+	margin: 10px;
+	padding: 10px;
+}
+h1 {
+	text-align: center;
+}
+
+.btn {
+	margin: 10px 0px;
+}
+label {
+	margin: 10px 0px;
+	font-size: 18px;
+}
