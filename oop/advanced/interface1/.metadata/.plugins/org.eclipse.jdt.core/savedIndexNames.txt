@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/kimbowen/Desktop/java/oop/advanced/interface1/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+839797856.index
+3323983548.index
